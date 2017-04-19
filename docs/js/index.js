@@ -13,7 +13,7 @@ $('#quiz').quiz({
 		'D.	Celtic symbol of male power'
       ],
       'correctIndex': 1,
-      'correctResponse': '<b>Right answer!</b> Right answer! Before Christianity, Ancient Greeks, Ancient Romans, and Pagans used the fish symbol. For Pagans, it represented fertility or more specifically the female reproductive organs. In the early days of Christianity, the fish, attracted little suspicion, making it a perfect symbol to represent their faith whilst avoiding persecution.',
+      'correctResponse': '<b>Right answer!</b> Before Christianity, Ancient Greeks, Ancient Romans, and Pagans used the fish symbol. For Pagans, it represented fertility or more specifically the female reproductive organs. In the early days of Christianity, the fish, attracted little suspicion, making it a perfect symbol to represent their faith whilst avoiding persecution.',
       'incorrectResponse': '<b>Wrong!</b> The correct answer is <b>B</b>. Before Christianity, Ancient Greeks, Ancient Romans, and Pagans used the fish symbol. For Pagans, it represented fertility or more specifically the female reproductive organs. In the early days of Christianity, the fish, attracted little suspicion, making it a perfect symbol to represent their faith whilst avoiding persecution.'
     },
     {
