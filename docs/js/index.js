@@ -5,7 +5,7 @@ $('#quiz').quiz({
   counterFormat: 'Question %current of %total',
   questions: [
     {
-      'q': '1. Christianity has used the symbol of ichthys <img src="images/ichthys.png" height="16px"></img> (the Greek word for fish) to convey theological messages. However,  it previously had another meaning. What do you think it might have been?',
+      'q': '1. Christianity has used the symbol of ichthys <img src="images/ichthys.png" height="16px"></img> to convey theological messages. However,  it previously had another meaning. What do you think it might have been?',
       'options': [
         'A.	Greek symbol of a penis',
         'B.	Paganist symbol of the vulva',
@@ -13,8 +13,8 @@ $('#quiz').quiz({
 		'D.	Celtic symbol of male power'
       ],
       'correctIndex': 1,
-      'correctResponse': '<b>Right answer!</b> Before Christianity, Ancient Greeks, Ancient Romans, and Pagans used the fish symbol. For Pagans, it represented fertility or more specifically the female reproductive organs. In the early days of Christianity, the fish, attracted little suspicion, making it a perfect symbol to represent their faith whilst avoiding persecution.',
-      'incorrectResponse': '<b>Wrong!</b> The correct answer is <b>B</b>. Before Christianity, Ancient Greeks, Ancient Romans, and Pagans used the fish symbol. For Pagans, it represented fertility or more specifically the female reproductive organs. In the early days of Christianity, the fish, attracted little suspicion, making it a perfect symbol to represent their faith whilst avoiding persecution.'
+      'correctResponse': '<b>Right answer!</b> Before Christianity, Ancient Greeks, Ancient Romans, and Pagans used the fish symbol. For Pagans, it represented fertility or more specifically the female reproductive organs. In the early days of Christianity, the fish attracted little suspicion, making it a perfect symbol to represent their faith whilst avoiding persecution.',
+      'incorrectResponse': '<b>Wrong!</b> The correct answer is <b>B</b>. Before Christianity, Ancient Greeks, Ancient Romans, and Pagans used the fish symbol. For Pagans, it represented fertility or more specifically the female reproductive organs. In the early days of Christianity, the fish attracted little suspicion, making it a perfect symbol to represent their faith whilst avoiding persecution.'
     },
     {
       'q': '2. Which of the followings is the most-tweeted emoji in France?',
@@ -38,8 +38,8 @@ $('#quiz').quiz({
 		'D.	an ant 🐜'
       ],
       'correctIndex': 0,
-      'correctResponse': '<b>Correct!</b> Zeus took the form of a bull to abduct Europa. Eurymedousa, a princess of Phthiotis, was seduced by Zeus in the form of an ant. Zeus took away Ganymede, a Trojan boy, to be his lover and the cupbearer of Gods.',
-      'incorrectResponse': '<b>Wrong!</b> The correct answer is <b>A</b>. Zeus took the form of a bull to abduct Europa. Eurymedousa, a princess of Phthiotis, was seduced by Zeus in the form of an ant. Zeus took away Ganymede, a Trojan boy, to be his lover and the cupbearer of Gods.'
+      'correctResponse': '<b>Correct!</b> Zeus took the form of a bull to abduct Europa. Eurymedousa, a princess of Phthiotis, was seduced by Zeus in the form of an ant. In the form of an eagle, Zeus took away Ganymede, a Trojan boy, to be his lover and the cupbearer of Gods.',
+      'incorrectResponse': '<b>Wrong!</b> The correct answer is <b>A</b>. Zeus took the form of a bull to abduct Europa. Eurymedousa, a princess of Phthiotis, was seduced by Zeus in the form of an ant. In the form of an eagle, Zeus took away Ganymede, a Trojan boy, to be his lover and the cupbearer of Gods.'
     },
     {
       'q': '4. The neurotransmitters in some food are the same ones that are released naturally during sexual intercourse. This is true for ...',
@@ -90,7 +90,7 @@ $('#quiz').quiz({
       'incorrectResponse': '<b>Not really!</b> The correct answer is <b>A</b>. Ancient Greeks associated small and non-erect penises with sexual moderation, which was one of the key virtues that formed their view of ideal masculinity. It was believed in Ancient Greece, large penises were associated with lust and uncontrollable sexual urges.'
     },
 	{
-      'q': '8. \"A sex symbol becomes a thing. I just hate being a thing.\" Which famous actresses  (widely considered to be a sex symbol) said this?',
+      'q': '8. \"A sex symbol becomes a thing. I just hate being a thing.\" Which famous actress  (widely considered to be a sex symbol) said this?',
       'options': [
         'A.	Elizabeth Taylor',
         'B.	Audrey Hepburn',
@@ -102,10 +102,10 @@ $('#quiz').quiz({
       'incorrectResponse': '<b>Wrong!</b> The correct answer is <b>C</b>. \"I never quite understood it, this sex symbol, I always thought symbols were those things you clash together, \" remarked Marilyn Monroe in an interview in Ms. Magazine (August 1972).'
     },
 	{
-      'q': '9. Which of the followings is an euphemism for male masturbation in Chinese (Cantonese and Mandarin) ?',
+      'q': '9. Which of the following is an euphemism for male masturbation in Chinese (Cantonese and Mandarin) ?',
       'options': [
         'A.	Hit the aeroplane',
-        'B.	Hit the soya sauce',
+        'B.	Hit the soy sauce',
         'C.	Hit the fish',
 		'D.	Hit the telephone'
       ],
@@ -114,7 +114,7 @@ $('#quiz').quiz({
       'incorrectResponse': '<b>No, it doesn’t mean that!</b> The correct answer is <b>A</b>. The phrase “hit the aeroplane” originally referred to the figurative motion of certain anti-aircraft missiles, which looks similar to masturbating.'
     },
 	{
-      'q': '10. In the western tradition, Mars is the symbol of men as Venus is of women. Which planet has been adopted by transgender society as their symbol?',
+      'q': '10. In the Western tradition, Mars is the symbol of men as Venus is of women. Which planet has been adopted by transgender society as their symbol?',
       'options': [
         'A.	Jupiter',
         'B.	Saturn',
@@ -122,8 +122,8 @@ $('#quiz').quiz({
 		'D.	Mercury'
       ],
       'correctIndex': 3,
-      'correctResponse': '<b>Right answer!</b> In Greek mythology, Aphrodite had a child with Mercury, who was named Hermaphroditus and possessed both male and female genitalia. Since Hermaphroditus didn\'t have a specific symbol, modern culture borrowed the symbol of Mercury to represent a transgender person.',
-      'incorrectResponse': '<b>Wrong answer!</b> The correct answer is <b>D</b>. In Greek mythology, Aphrodite had a child with Mercury, who was named Hermaphroditus and possessed both male and female genitalia. Since Hermaphroditus didn\'t have a specific symbol, modern culture borrowed the symbol of Mercury to represent a transgender person.'
+      'correctResponse': '<b>Right answer!</b> In Greek mythology, Aphrodite had a child with Mercury, who was named Hermaphroditus and possessed both male and female genitalia. Since Hermaphroditus didn\'t have a specific symbol, modern culture borrowed the symbol of Mercury to represent the transgender community.',
+      'incorrectResponse': '<b>Wrong answer!</b> The correct answer is <b>D</b>. In Greek mythology, Aphrodite had a child with Mercury, who was named Hermaphroditus and possessed both male and female genitalia. Since Hermaphroditus didn\'t have a specific symbol, modern culture borrowed the symbol of Mercury to represent the transgender community.'
     }
   ]
 });
