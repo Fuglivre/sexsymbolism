@@ -26,8 +26,8 @@ $('#quiz').quiz({
 		'D.	👫, The French are known for their romance'
       ],
       'correctIndex': 2,
-      'correctResponse': '<b>Correct!</b> According to the newspaper, Metro News, The most tweeted emoji in the U.K. is 😩, while the Japanese and Italians\' most loved emoji is the heart ❤️.',
-      'incorrectResponse': '<b>Wrong answer!</b> The correct answer is <b>C</b>. According to the newspaper, Metro News, in 2016, The most tweeted emoji in the U.K. is 😩, while the Japanese and Italians\' most loved emoji is the heart ❤️.'
+      'correctResponse': '<b>Correct!</b> According to the newspaper, Metro News, the most tweeted emoji in the U.K. is 😩, while the Japanese and Italians\' most loved emoji is the heart ❤️.',
+      'incorrectResponse': '<b>Wrong answer!</b> The correct answer is <b>C</b>. According to the newspaper, Metro News, in 2016, the most tweeted emoji in the U.K. is 😩, while the Japanese and Italians\' most loved emoji is the heart ❤️.'
     },
     {
       'q': '3. In Greek mythology, Zeus assumed all the following forms to seduce mortals, except ...',
@@ -71,7 +71,7 @@ $('#quiz').quiz({
         'A.	China 🇨🇳',
         'B.	Columbia 🇨🇴',
         'C.	Poland 🇵🇱',
-		'D.	Lenanon 🇱🇧'
+		'D.	Lebanon 🇱🇧'
       ],
       'correctIndex': 3,
       'correctResponse': '<b>Yes!</b> In this part of the world, affection between men is common, and without sexual connotation. In fact, if a man chooses not to touch another man in a greeting, it can be interpreted as a sign of distance or disdain.',
@@ -86,8 +86,8 @@ $('#quiz').quiz({
 		'D.	Compassion and wisdom'
       ],
       'correctIndex': 0,
-      'correctResponse': '<b>Right answer!</b> Ancient Greeks associated small and non-erect penises with sexual moderation, which was one of the key virtues that formed their view of ideal masculinity. It was believed in Ancient Greece, large penises were associated with lust and uncontrollable sexual urges.',
-      'incorrectResponse': '<b>Not really!</b> The correct answer is <b>A</b>. Ancient Greeks associated small and non-erect penises with sexual moderation, which was one of the key virtues that formed their view of ideal masculinity. It was believed in Ancient Greece, large penises were associated with lust and uncontrollable sexual urges.'
+      'correctResponse': '<b>Right answer!</b> Ancient Greeks associated small and non-erect penises with sexual moderation, which was one of the key virtues that formed their view of ideal masculinity. In Ancient Greece, large penises were associated with lust and uncontrollable sexual urges.',
+      'incorrectResponse': '<b>Not really!</b> The correct answer is <b>A</b>. Ancient Greeks associated small and non-erect penises with sexual moderation, which was one of the key virtues that formed their view of ideal masculinity. In Ancient Greece, large penises were associated with lust and uncontrollable sexual urges.'
     },
 	{
       'q': '8. \"A sex symbol becomes a thing. I just hate being a thing.\" Which famous actress  (widely considered to be a sex symbol) said this?',
@@ -114,7 +114,7 @@ $('#quiz').quiz({
       'incorrectResponse': '<b>No, it doesn’t mean that!</b> The correct answer is <b>A</b>. The phrase “hit the aeroplane” originally referred to the figurative motion of certain anti-aircraft missiles, which looks similar to masturbating.'
     },
 	{
-      'q': '10. In the Western tradition, Mars is the symbol of men as Venus is of women. Which planet has been adopted by transgender society as their symbol?',
+      'q': '10. In the Western tradition, Mars is the symbol of men as Venus is of women. Which planet has been adopted by the transgender society as their symbol?',
       'options': [
         'A.	Jupiter',
         'B.	Saturn',
