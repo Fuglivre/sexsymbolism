@@ -1,6 +1,8 @@
 body {
-	background: #000;
+	background-image:url(../images/BackgroundBlackBorderThin.png);
 	color: #fff;
+	background-repeat:space;
+	background-size: 100%;
 }
 h1 {
 	color: #fff;
@@ -10,12 +12,12 @@ h1 {
   font-size: large;
 }
 #quiz-counter {
-  color: #F4F38A;
+  color: #fff;
   margin-bottom: 10px;
 }
 .quiz-container {
     padding: 0.25em;
-    max-width: 650px;
+    max-width: 80%;
     margin: 1em auto;
 }
 
@@ -25,9 +27,13 @@ h1 {
 }
 
 #quiz-header,
+#quiz-results-screen {
+	margin: 8% 0 0 0;
+    text-align: center;
+}
 #quiz-start-screen,
-#quiz-results-screen,
-#quiz-counter {
+#quiz-counter{
+	margin: 2% 0 0 0;
     text-align: center;
 }
 
@@ -60,10 +66,9 @@ h1 {
 }
 
 #quiz-controls1 {
-    background: #F4F38A;
+    background: #fff;
     color: #111;
     padding: 0.25em 0.5em 0.5em;
-	text-align: center;
 }
 
 #quiz-response {}
@@ -75,13 +80,13 @@ h1 {
 .quiz-container .quiz-button {
     display: inline-block;
     padding: 0.5em 1em;
-    background: #F4F38A;
+    background: #fff;
     color: #000;
 	margin: 10px 0;
 }
 #quiz-buttons a {
-    background: #fff;
-    color: #333;
+	background: #c00;
+	color: #fff;
 }
 
 /* Quiz State Overrides */
@@ -92,7 +97,7 @@ h1 {
 	text-align: center;
 }
 .quiz-results-state #quiz-buttons a {
-    background: #F4F38A;
+    background: #fff;
     color: #000;
 }
 .quiz-start-motto{
@@ -103,4 +108,8 @@ h1 {
 
 @font-face {
  font-family: "Calibri";
+}
+p #quiz-results{
+	font-size: 36px;
+	margin: 50px 0;
 }
