@@ -35,8 +35,7 @@ setup:function(){
 	a(".question-container").hide(),
 	a(l).hide(),
 	a(k).hide(),
-	a("#quiz-controls1").hide(),
-	a("#quiz-restart-btn").show()
+	a("#quiz-controls1").hide()
 },
 start:function(){
 	e.$el.removeClass("quiz-start-state").addClass("quiz-questions-state"),
