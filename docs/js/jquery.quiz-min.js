@@ -45,8 +45,8 @@ start:function(){
 	a("#quiz-restart-btn").hide(),a("#questions").show(),
 	a("#quiz-counter").show(),
 	a(".question-container:first-child").show().addClass("active-question"),
-	a("#quiz-restart-btn").show(),
-	e.methods.updateCounter()
+	e.methods.updateCounter(),
+	a("#quiz-restart-btn").show()
 },
 answerQuestion:function(b){
 	if(!o){
