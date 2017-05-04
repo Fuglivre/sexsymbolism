@@ -35,7 +35,8 @@ setup:function(){
 	a(".question-container").hide(),
 	a(l).hide(),
 	a(k).hide(),
-	a("#quiz-controls1").hide()
+	a("#quiz-controls1").hide(),
+	a("#quiz-restart-btn").show()
 },
 start:function(){
 	e.$el.removeClass("quiz-start-state").addClass("quiz-questions-state"),
@@ -45,8 +46,7 @@ start:function(){
 	a("#quiz-restart-btn").hide(),a("#questions").show(),
 	a("#quiz-counter").show(),
 	a(".question-container:first-child").show().addClass("active-question"),
-	e.methods.updateCounter(),
-	a("#quiz-finish-btn").show()
+	e.methods.updateCounter()
 },
 answerQuestion:function(b){
 	if(!o){
