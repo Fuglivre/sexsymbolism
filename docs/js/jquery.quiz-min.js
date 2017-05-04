@@ -45,7 +45,7 @@ start:function(){
 	a("#questions").show(),
 	a("#quiz-counter").show(),
 	a(".question-container:first-child").show().addClass("active-question"),
-	e.methods.updateCounter(),
+	e.methods.updateCounter()
 },
 answerQuestion:function(b){
 	if(!o){
