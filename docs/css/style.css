@@ -1,9 +1,8 @@
 body {
 	background-image:url(../images/BackgroundBlackBorderThin.png);
 	color: #fff;
-	background-repeat:space;
+	background-repeat:repeat;
 	background-size: 100%;
-	background-color: #000;
 }
 h1 {
 	color: #fff;
