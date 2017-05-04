@@ -26,9 +26,12 @@ h1 {
     color: #333;
 }
 
-#quiz-header,
-#quiz-results-screen {
+#quiz-header {
 	margin: 8% 0 0 0;
+    text-align: center;
+}
+#quiz-results-screen {
+	margin: 3% 0 0 0;
     text-align: center;
 }
 #quiz-start-screen,
