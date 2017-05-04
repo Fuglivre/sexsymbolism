@@ -43,7 +43,7 @@ start:function(){
 	a(h).hide(),
 	a("#quiz-controls1").hide(),
 	a("#quiz-finish-btn").hide(),
-	a("#quiz-restart-btn").hide(),a("#questions").show(),
+	a("#questions").show(),
 	a("#quiz-counter").show(),
 	a(".question-container:first-child").show().addClass("active-question"),
 	e.methods.updateCounter()
