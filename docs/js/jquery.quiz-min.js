@@ -57,6 +57,7 @@ answerQuestion:function(b){
 		    return void e.methods.gameOver(d);
 	a("#quiz-response").html(d),
 	a("#quiz-controls1").fadeIn(),
+        a("#quiz-restart-btn").show(),
 	"function"==typeof e.options.answerCallback&&e.options.answerCallback(m,g===i)
 	}
 },
