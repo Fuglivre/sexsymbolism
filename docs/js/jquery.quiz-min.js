@@ -35,7 +35,7 @@ setup:function(){
 	a(".question-container").hide(),
 	a(l).hide(),
 	a(k).hide(),
-	a("#quiz-controls1").hide()
+	a("#quiz-controls1").hide(),
 	a("#quiz-restart-btn").show()
 },
 start:function(){
